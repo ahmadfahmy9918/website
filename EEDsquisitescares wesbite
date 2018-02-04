@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<h1>EEGsquisiye Scares</h1>
+<h2>EEG Project<h2>
+
+<p>
+  Humans emit {stronger} brain waves based on the amount of neural activity {they undergo}. This activity is the result of constantly
+  firing action potentials which varies depending on how much the person is thinking. Situational problems and external stresses can
+  increase the number of neurons firing within the brain at any given moment, increasing the strength of brainwaves being released as
+  a result. However, humans adapt to stresses around them unconsciously and the body eventually settles into its new environment. This
+   is a challenge faced by many horror game developers. How do you keep the player always scared when he or she naturally gets used to
+    it after a certain point? This project is designed to solve this problem. By adding the element of brainwaves to VR horror games,
+    we can increase their effectiveness. In essence, a program would be designed and linked to a horror game that evolves to its user
+    and caters an experience specific to them rather than having set jump scares. When the program senses that the user's brain activity
+     is slowing down or they are adapting to the intense situation, it will scare them and keep them constantly full of adrenaline. The
+     program we designed displays this concept by using a simple demonstration. Using a series of statements, the program turns a light
+     on when the user has brain activity less than the “calm” threshold of 820 microvolts of neural brain waves. Anything more and the
+     program turns the light off signaling the user is undergoing above average neural activity. The light on tells the programmer that
+      the user has adapted to the situation and they require new neural stimulation via either a jump scare or tense situation so they
+      can keep a much more honest VR horror experience. It makes for a much more immersive gameplay that will cater for each user specifically,
+       keeping everyone on their feet at all times.
+</p>
+
+
+</html>
